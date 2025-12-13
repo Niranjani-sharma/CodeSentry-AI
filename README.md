@@ -15,12 +15,7 @@ This application connects to GitHub repositories and automatically reviews code 
 
 The AI reviewer posts comments directly on the pull request with specific line-by-line feedback, severity levels, and suggested improvements.
 
-## Demo
 
-See the AI reviewer in action on these example pull requests:
-- [Demo PR #1](https://github.com/BhatiaUday/mistral_project/pull/1)
-- [Demo PR #2](https://github.com/BhatiaUday/mistral_project/pull/2)
-- [Demo PR #3](https://github.com/BhatiaUday/mistral_project/pull/3)
 
 ## Requirements
 
