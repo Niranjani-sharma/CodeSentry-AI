@@ -28,14 +28,14 @@ The AI reviewer posts comments directly on the pull request with specific line-b
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BhatiaUday/mistral_project.git
-cd mistral_project
+git clone https://github.com/Niranjani-sharma/CodeSentry-AI.git
+cd CodeSentry-AI
 ```
 
 2. Create and activate virtual environment:
 ```bash
-python3 -m venv mistral_project_venv
-source mistral_project_venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 3. Install dependencies:
@@ -157,6 +157,10 @@ The application is built with:
 - Mistral AI SDK for code analysis
 - Docker for containerization
 - Azure Container Apps for cloud deployment
+
+## Credits
+
+Originally based on [BhatiaUday/mistral_project](https://github.com/BhatiaUday/mistral_project), maintained here by Niranjani Sharma.
 
 ## License
 
