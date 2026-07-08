@@ -158,10 +158,6 @@ The application is built with:
 - Docker for containerization
 - Azure Container Apps for cloud deployment
 
-## Credits
-
-Originally based on [BhatiaUday/mistral_project](https://github.com/BhatiaUday/mistral_project), maintained here by Niranjani Sharma.
-
 ## License
 
 MIT License - feel free to use this project for your own code review automation needs.
